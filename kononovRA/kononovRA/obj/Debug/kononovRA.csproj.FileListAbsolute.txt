@@ -1,0 +1,10 @@
+C:\Users\Mobil\source\repos\kononovRA\kononovRA\bin\Debug\kononovRA.exe.config
+C:\Users\Mobil\source\repos\kononovRA\kononovRA\bin\Debug\kononovRA.exe
+C:\Users\Mobil\source\repos\kononovRA\kononovRA\bin\Debug\kononovRA.pdb
+C:\Users\Mobil\source\repos\kononovRA\kononovRA\obj\Debug\kononovRA.csproj.AssemblyReference.cache
+C:\Users\Mobil\source\repos\kononovRA\kononovRA\obj\Debug\kononovRA.Form1.resources
+C:\Users\Mobil\source\repos\kononovRA\kononovRA\obj\Debug\kononovRA.Properties.Resources.resources
+C:\Users\Mobil\source\repos\kononovRA\kononovRA\obj\Debug\kononovRA.csproj.GenerateResource.cache
+C:\Users\Mobil\source\repos\kononovRA\kononovRA\obj\Debug\kononovRA.csproj.CoreCompileInputs.cache
+C:\Users\Mobil\source\repos\kononovRA\kononovRA\obj\Debug\kononovRA.exe
+C:\Users\Mobil\source\repos\kononovRA\kononovRA\obj\Debug\kononovRA.pdb
